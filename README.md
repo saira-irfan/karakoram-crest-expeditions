@@ -11,7 +11,7 @@
 * **Section:** C
 
 * **GitHub Repository:** https://github.com/saira-irfan/karakoram-crest-expeditions
-* **Live Deployment Link:** https://YOUR-PROJECT.vercel.app
+* **Live Deployment Link:** https://karakoram-crest-expeditions.vercel.app
 * **Final Submission Commit Hash:** 8e8f5a4f7d103a80025788c30ef56397f091a6ee
 
 
