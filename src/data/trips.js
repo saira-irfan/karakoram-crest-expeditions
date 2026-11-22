@@ -141,7 +141,7 @@ export const TRIPS_DATA = [
     elevation: '540 m',
     rating: 4.6,
     reviewsCount: 22,
-    image: 'https://images.unsplash.com/photo-1590076215667-875d4ef2d7ee?auto=format&fit=crop&w=800&q=80',
+    image: '/images/taxila.jpg',
     description: 'UNESCO World Heritage journey exploring Dharmarajika Stupa, Sirkap Greek-Bactrian ruins, and the ancient Julian Buddhist university monastery.',
     includes: 'All archaeological site entrance tickets, licensed historian guide, tea break, comfortable transport',
     itinerary: [
